@@ -1,6 +1,6 @@
 {
   "name": "quiet-console",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Console replacement which does nothing",
   "main": "index.js",
   "scripts": {
