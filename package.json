@@ -1,0 +1,24 @@
+{
+  "name": "quiet-console",
+  "version": "0.0.0",
+  "description": "Console replacement which does nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec specs/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andreypopp/quiet-console"
+  },
+  "keywords": [
+    "console",
+    "quiet"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "semver": "~2.2.1",
+    "mocha": "~1.14.0",
+    "jshint": "~2.3.0"
+  }
+}
