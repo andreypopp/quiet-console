@@ -1,0 +1,13 @@
+# quiet-console
+
+Like `console` object but does nothing:
+
+    var console = require('quiet-console');
+    console.info('hey!'); // nothing...
+    console.log('hey!'); // nothing...
+    console.warn('hey!'); // nothing...
+    console.error('hey!'); // nothing...
+
+Install via npm:
+
+    % npm install quiet-console
